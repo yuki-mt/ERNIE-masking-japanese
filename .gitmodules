@@ -1,0 +1,6 @@
+[submodule "bert-japanese"]
+	path = bert-japanese
+	url = https://github.com/yoheikikuta/bert-japanese.git
+[submodule "wikiextractor"]
+	path = wikiextractor
+	url = https://github.com/attardi/wikiextractor.git
